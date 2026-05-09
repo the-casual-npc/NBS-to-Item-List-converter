@@ -1,6 +1,6 @@
 # NBS-to-Item-List-converter
 A Python Script that takes a .NBS file, and generates an item list for each instrument and tone. This tool was created for the M.A.E.S.T.R.O Note block player by jazziired and others.
-Check the original project here: https://modrinth.com/modpack/maestro
+Check out the original project here: https://modrinth.com/modpack/maestro
 
 How to use:
 1. Download "script.py" and place it into an empty folder. This is where the output will be generated
