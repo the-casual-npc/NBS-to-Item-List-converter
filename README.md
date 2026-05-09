@@ -5,7 +5,7 @@ Check out the original project here: https://modrinth.com/modpack/maestro
 How to use:
 1. Download the repository as a ZIP and extract it into an empty folder. This is where the output will be generated
 2. Rename your .nbs file to "track.nbs" and place it into the folder alongside the script
-3. Running the tool
+3. Run the tool:
   - Windows: Run the "start.bat" file in the folder
   - Other: Open the folder in your terminal and run "main.py" with python
 
