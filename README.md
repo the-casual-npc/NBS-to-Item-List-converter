@@ -3,7 +3,7 @@ A Python Script that takes a .NBS file, and generates an item list for each inst
 Check out the original project here: https://modrinth.com/modpack/maestro
 
 How to use:
-1. Download "script.py" and place it into an empty folder. This is where the output will be generated
+1. Download the repository as a ZIP and extract it into an empty folder. This is where the output will be generated
 
 2. Rename your .nbs file to "track.nbs" and place it into the folder alongside the script
 
