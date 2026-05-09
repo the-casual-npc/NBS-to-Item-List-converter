@@ -4,10 +4,14 @@ Check out the original project here: https://modrinth.com/modpack/maestro
 
 How to use:
 1. Download the repository as a ZIP and extract it into an empty folder. This is where the output will be generated
-
 2. Rename your .nbs file to "track.nbs" and place it into the folder alongside the script
+3.
+  a) Windows:
+  - Run the "start.bat" file in the folder
+  b) Other:
+  - Open the folder in your terminal and run "main.py" with python
 
-3. Run the script. The script will read the .nbs file and generate the itemlist with the following structure:
+Result Folder Structure:
    - A subfolder is created alongside the script, named after the track name (taken from the song header)
    - Inside this folder, subfolders for each used instrument are created
    - For each instrument, the script creates .txt files for each used tone
