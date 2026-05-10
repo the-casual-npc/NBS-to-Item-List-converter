@@ -16,5 +16,6 @@ Result Folder Structure:
    - In each .txt file, the items are organised into shulkers. In each shulker a list of items is written in the order they should be loaded into shulker boxes
 
 Note:
+  - In order to use this tool, you need Python installed. You can get it here: https://www.python.org
   - Pauses in the song are indicated by "NONE". For these pauses, filler items stackable to 64 should be used. Make sure to use a different filler item for each pause (as to not mix when being decoded)
   - This tool has been created with Vanilla notes only in mind (if anyone would be interested in custom notes or notes beyond the normal minecraft range, I am open to adding that feature)
